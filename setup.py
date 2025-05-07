@@ -1,12 +1,12 @@
 import setuptools
 
-with open("README.md", "r", encoding='utf-8') as f:
+with open("README.md", "r", encoding="utf-8") as f:
      long_description = f.read()
 
-__version__ = '0.0.0'
+__version__ = "0.0.0"
 repo_name = 'NLP-Text-Summarization'
 author_user_name = 'ShanmukhaMundra'
-src_repo = 'textSummerizer'
+src_repo = 'textSummarizer'
 author_email = 'shanuchowdary666@gmail.coom'
 
 setuptools.setup(
