@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(messsage)s')
-project_name = "NLP-TextSummarizer"
+project_name = "textSummarizer"
 list_of_files =[
     ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
