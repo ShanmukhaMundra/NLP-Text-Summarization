@@ -1,5 +1,8 @@
 transformers
 transformers[sentencepiece]
+sentencepiece
+tiktoken
+Cython
 datasets
 sacrebleu
 rouge_score
